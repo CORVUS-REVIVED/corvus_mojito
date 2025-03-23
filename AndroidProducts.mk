@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_mojito.mk
+    $(LOCAL_DIR)/corvus_mojito.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_mojito-eng \
-    lineage_mojito-userdebug \
-    lineage_mojito-eng
+    corvus_mojito-eng \
+    corvus_mojito-userdebug \
+    corvus_mojito-eng
